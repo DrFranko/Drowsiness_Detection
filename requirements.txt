@@ -1,0 +1,12 @@
+playsound
+dlib
+torch
+numpy
+opencv
+torchvision
+scipy
+tqdm
+json
+PIL
+shutil
+roboflow
